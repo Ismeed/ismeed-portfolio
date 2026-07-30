@@ -147,7 +147,7 @@ export function Hero() {
                 {/* Frame */}
                 <div className="relative h-full w-full overflow-hidden rounded-[2rem] border border-soft glass-card">
                   <Image
-                    src="/images/profile/founder-main.jpg"
+                    src="/images/profile/hero-speaking.jpg"
                     alt="Isma'il Sa'id — Founder"
                     fill
                     priority

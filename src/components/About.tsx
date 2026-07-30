@@ -20,7 +20,7 @@ export function About() {
               <div className="absolute -inset-2 rounded-[2rem] bg-gradient-to-br from-blue-500/30 via-transparent to-transparent blur-2xl" />
               <div className="relative aspect-[4/5] w-full overflow-hidden rounded-[2rem] border border-soft glass-card">
                 <Image
-                  src="/images/profile/founder-formal.jpg"
+                  src="/images/profile/about-portrait.png"
                   alt="Isma'il Sa'id"
                   fill
                   sizes="(max-width: 1024px) 90vw, 480px"
