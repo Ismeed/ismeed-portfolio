@@ -71,6 +71,28 @@ export const projects = [
     ],
     accent: "emerald",
   },
+  {
+    id: "biliscan",
+    name: "BiliScan",
+    status: "MVP Stage",
+    tagline: "AI-Powered Neonatal Jaundice Screening",
+    description:
+      "BiliScan is an AI-powered digital health platform that enables early screening of neonatal jaundice using a smartphone camera. By combining computer vision and machine learning with clinical risk assessment, BiliScan helps parents and healthcare workers identify newborns at risk and encourages timely medical intervention.",
+    features: [
+      "AI-powered jaundice screening",
+      "Computer vision skin & eye analysis",
+      "Symptom-based clinical risk assessment",
+      "Instant risk classification (Low, Mod, High)",
+      "Referral guidance to nearby clinics",
+      "Low-resource setting accessibility",
+    ],
+    logo: "/images/logos/biliscan-logo.png",
+    images: [
+      "/images/projects/biliscan-dashboard.jpg",
+      "/images/projects/biliscan-mobile.jpg",
+    ],
+    accent: "purple",
+  },
 ];
 
 export const achievements = [

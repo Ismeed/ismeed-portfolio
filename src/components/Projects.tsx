@@ -19,7 +19,7 @@ export function Projects() {
             <span className="text-gradient">real people.</span>
           </h2>
           <p className="section-subtitle">
-            Two flagship ventures under Swifter Ventures LTD — designed for
+            Flagship ventures under Swifter Ventures LTD — designed for
             scale, built for inclusion, engineered for impact.
           </p>
         </div>
