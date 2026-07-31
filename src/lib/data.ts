@@ -239,8 +239,8 @@ export const certifications = [
   },
   {
     name: "Software Development",
-    org: "Development for All Challenge 2.0",
-    image: "",
+    org: "Digital for All Challenge 2.0",
+    image: "/images/certificates/digitalforall-cert.jpg",
   },
   {
     name: "Certificate of Membership",
