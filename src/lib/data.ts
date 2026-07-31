@@ -238,7 +238,7 @@ export const media = [
   {
     title: "Public Speaking",
     desc: "Speaking on youth innovation, technology, and inclusion.",
-    image: "/images/events/public-speaking-event.jpg",
+    image: "/images/events/public-speaking-event.gif",
     tag: "Speaking",
   },
   {

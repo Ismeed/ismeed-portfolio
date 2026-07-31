@@ -59,6 +59,7 @@ function MediaCard({
         src={item.image}
         alt={item.title}
         fill
+        unoptimized={item.image.endsWith(".gif")}
         sizes="(max-width: 768px) 90vw, 50vw"
         className="object-cover transition-transform duration-[1.2s] group-hover:scale-110"
       />
