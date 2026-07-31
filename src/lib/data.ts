@@ -211,9 +211,29 @@ export const certifications = [
     image: "/images/certificates/ndpc-cert.jpg",
   },
   {
-    name: "CIIPD",
-    org: "Certified Innovation in Public Development",
-    image: "/images/certificates/ciipd-cert.jpg",
+    name: "Diploma in Artificial Intelligence",
+    org: "Think Right Computers",
+    image: "",
+  },
+  {
+    name: "Software Development",
+    org: "Development for All Challenge 2.0",
+    image: "",
+  },
+  {
+    name: "Certificate of Membership",
+    org: "Eloquent Society",
+    image: "",
+  },
+  {
+    name: "Mobile App Development",
+    org: "Kirkira Innovation Hub",
+    image: "",
+  },
+  {
+    name: "Cyber Security",
+    org: "Katsina Directorate of Information & Communications Technology (KATDICT)",
+    image: "",
   },
   {
     name: "Public Health & Environmental Management",
