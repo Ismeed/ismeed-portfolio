@@ -250,7 +250,7 @@ export const certifications = [
   {
     name: "Mobile App Development",
     org: "Kirkira Innovation Hub",
-    image: "",
+    image: "/images/certificates/kirkira-mobile-cert.png",
   },
   {
     name: "Cyber Security",
