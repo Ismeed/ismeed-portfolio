@@ -245,7 +245,7 @@ export const certifications = [
   {
     name: "Certificate of Membership",
     org: "Eloquent Society",
-    image: "",
+    image: "/images/certificates/eloquent-membership-cert.jpg",
   },
   {
     name: "Mobile App Development",
@@ -255,7 +255,7 @@ export const certifications = [
   {
     name: "Cyber Security",
     org: "Katsina Directorate of Information & Communications Technology (KATDICT)",
-    image: "",
+    image: "/images/certificates/katdict-cybersecurity-cert.jpg",
   },
   {
     name: "Public Health & Environmental Management",
