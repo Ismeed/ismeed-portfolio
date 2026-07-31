@@ -235,7 +235,7 @@ export const certifications = [
   {
     name: "Diploma in Artificial Intelligence",
     org: "Think Right Computers",
-    image: "",
+    image: "/images/certificates/thinkright-ai-cert.jpg",
   },
   {
     name: "Software Development",
